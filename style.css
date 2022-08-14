@@ -398,6 +398,7 @@ form textarea {
 }
 
 .footer h2 {
+  color: black;
   font-size: 1.6rem;
   margin-bottom: 20px;
 }
@@ -406,8 +407,9 @@ form textarea {
   font-size: 25px;
   margin: 5px;
   border-radius: 50%;
-  background: var(--bg-color);
+  background: #fff;
   padding: 10px;
+  color: #033a80;
 }
 
 .copyright {
